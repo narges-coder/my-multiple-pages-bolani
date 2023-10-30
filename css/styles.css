@@ -26,12 +26,13 @@ footer a {
   justify-content: space-between;
   margin-top: 10px;
 }
-
-.container {
-  max-width: 800px;
-  padding: 15px;
-  margin-bottom: 10px;
-}
 .email {
   color: blue;
+}
+
+.bolani-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 20px 0;
+  display: center;
 }
