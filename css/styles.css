@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background: #f8e8a6;
+  display: block;
+  margin: 8px;
+}
+
+h1 {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+p {
+  display: block;
+  margin: 10px;
+  line-height: normal;
+  justify-content: flex-end;
+
+  font-size: 16px;
+}
+footer a {
+  color: green;
+  margin: 0px 10px;
+  display: inline;
+  text-decoration: underline;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.container {
+  max-width: 800px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.email {
+  color: blue;
+}
